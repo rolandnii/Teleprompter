@@ -1,0 +1,14 @@
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\bin\Debug\net7.0\TelePrompterPro.exe
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\bin\Debug\net7.0\TelePrompterPro.deps.json
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\bin\Debug\net7.0\TelePrompterPro.runtimeconfig.json
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\bin\Debug\net7.0\TelePrompterPro.dll
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\bin\Debug\net7.0\TelePrompterPro.pdb
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.AssemblyInfoInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.AssemblyInfo.cs
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.csproj.CoreCompileInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.dll
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\refint\TelePrompterPro.dll
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.pdb
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\TelePrompterPro.genruntimeconfig.cache
+C:\Users\james quansah\Desktop\C#\Practice\TelePrompterPro\obj\Debug\net7.0\ref\TelePrompterPro.dll

@@ -1,0 +1,5 @@
+vWhat is the yield keyword in C# code project?
+“Yield keyword helps us to do custom stateful iteration over 
+NET collections.” Customized iteration through a collection
+without creating a temporary
+collection. Stateful iteration.10 Apr 2013
